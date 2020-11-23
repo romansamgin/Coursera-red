@@ -1,4 +1,4 @@
-# https://www.coursera.org/learn/c-plus-plus-red?utm_source=linkshare&siteID=je6NUbpObpQ-pkNuPJbd0KY_MU2KwwuVPg&ranEAID=je6NUbpObpQ&utm_content=10&ranMID=40328&ranSiteID=je6NUbpObpQ-pkNuPJbd0KY_MU2KwwuVPg&utm_campaign=je6NUbpObpQ&utm_medium=partners
+https://www.coursera.org/learn/c-plus-plus-red
 
 # Условие задачи
 
