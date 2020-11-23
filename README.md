@@ -1,3 +1,5 @@
+# https://www.coursera.org/learn/c-plus-plus-red?utm_source=linkshare&siteID=je6NUbpObpQ-pkNuPJbd0KY_MU2KwwuVPg&ranEAID=je6NUbpObpQ&utm_content=10&ranMID=40328&ranSiteID=je6NUbpObpQ-pkNuPJbd0KY_MU2KwwuVPg&utm_campaign=je6NUbpObpQ&utm_medium=partners
+
 # Условие задачи
 
 Было бы странно в курсе от Яндекса и не попросить вас сделать свою поисковую систему. В финальной задаче «Красного пояса» мы именно этим и займёмся :)
